@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WallMartLogin</string>
+    <string name="email">Email address (required)</string>
+    <string name="password">Password (required)</string>
+    <string name="title">Sign in to your account</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="dont_have">Don\'t have an account?</string>
+    <string name="new_account">Create a new account</string>
+    <string name="required_fields">*required fields</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email_address">Email address</string>
+    <string name="password_2">Password</string>
+    <string name="create_account">Create Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="shopping_cart_username">welcome </string>
+    <string name="shopping_cart_title">Shot by Categories </string>
+    <string name="shopping_cart_electronics">Electronics</string>
+    <string name="shopping_cart_clothing">Clothing </string>
+    <string name="shopping_cart_beauty">Beauty </string>
+    <string name="shopping_cart_food">Food </string>
+</resources>
